@@ -12,4 +12,5 @@ I am learning git so that I could share code with others.
 7. Delete version branch 
 
 [Git tutorial](https://try.github.io/levels/1/challenges/1) 
+
 [Github guides](https://guides.github.com/)
