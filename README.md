@@ -10,3 +10,5 @@ I am learning git so that I could share code with others.
 5. Open pull request (_propose changes_ from a branch)
 6. Merge pull request (_add changes_ in master branch)
 7. Delete version branch 
+
+[Git tutorial](https://try.github.io/levels/1/challenges/1) 
