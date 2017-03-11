@@ -10,6 +10,10 @@ I am learning git so that I could share code with others.
 6. Merge pull request (_add changes_ in master branch)
 7. Delete version branch 
 
-[Git tutorial](https://try.github.io/levels/1/challenges/1) 
+### Git tutorials
+- [Git tutorial](https://try.github.io/levels/1/challenges/1) 
+- [Github guides](https://guides.github.com/)
 
-[Github guides](https://guides.github.com/)
+### Course Lists
+- [GH Developer-Y cs video courses](https://github.com/Developer-Y/cs-video-courses)
+- [GH prakhar1989 awesome courses](https://github.com/prakhar1989/awesome-courses)
