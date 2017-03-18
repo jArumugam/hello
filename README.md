@@ -10,6 +10,11 @@ I am learning git so that I could share code with others.
 6. Merge pull request (_add changes_ in master branch)
 7. Delete version branch 
 
+### Here are my [python notes](https://github.com/jArumugam/python-notes)
+### Ongoing project on [NYC Taxi Data](https://github.com/jArumugam/BigFish)
+
+
+## Aside
 ### Git tutorials
 - [Git tutorial](https://try.github.io/levels/1/challenges/1) 
 - [Github guides](https://guides.github.com/)
