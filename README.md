@@ -12,14 +12,12 @@ I am learning git so that I could share code with others.
 
 ### Here are my [python notes](https://github.com/jArumugam/python-notes)
 
-### Ongoing project on [NYC Taxi Data](https://github.com/jArumugam/BigFish)
+### Part of my [PhD work](https://github.com/jArumugam/thrombin-ACS-CAD-2016) could be found here
+
+### Ongoing project on [Network Analysis](https://github.com/jArumugam/BigFish) NYC Taxi Data
 You are welcome to join! 
 
 ## Aside
-### Git tutorials
-- [Git tutorial](https://try.github.io/levels/1/challenges/1) 
-- [Github guides](https://guides.github.com/)
-- [How to use git](http://lifehacker.com/5983680/how-the-heck-do-i-use-github)
 
 ### Book Codes
 - [PRML](https://github.com/PRML/PRMLT)
@@ -35,7 +33,6 @@ You are welcome to join!
 - [Stanford Data Mining](http://web.stanford.edu/class/cs345a/handouts.html)
 - [Stanford MMDS](http://web.stanford.edu/class/cs246/)
 
-
 ### Meta Lists 
 - [GH CS Developer-Y video courses](https://github.com/Developer-Y/cs-video-courses)
 - [GH CS prakhar1989 awesome courses](https://github.com/prakhar1989/awesome-courses)
@@ -44,3 +41,7 @@ You are welcome to join!
 - [GH awesome deep learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [GH awesome data science](https://github.com/bulutyazilim/awesome-datascience)
 
+### Git Tutorials
+- [Git tutorial](https://try.github.io/levels/1/challenges/1) 
+- [Github guides](https://guides.github.com/)
+- [How to use git](http://lifehacker.com/5983680/how-the-heck-do-i-use-github)
