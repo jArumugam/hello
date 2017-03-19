@@ -3,7 +3,7 @@
 
 ### Here are my [python notes](https://github.com/jArumugam/python-notes)
 
-### Part of my [PhD work](https://github.com/jArumugam/thrombin-ACS-CAD-2016) could be found here
+### Parts of my [PhD work](https://github.com/jArumugam/thrombin-ACS-CAD-2016) could be found here
 
 ### Ongoing project on [Network Analysis](https://github.com/jArumugam/BigFish) NYC Taxi Data
 You are welcome to join! 
