@@ -47,3 +47,4 @@ I am learning git so that I could share code with others.
 - [Git tutorial](https://try.github.io/levels/1/challenges/1) 
 - [Github guides](https://guides.github.com/)
 - [How to use git](http://lifehacker.com/5983680/how-the-heck-do-i-use-github)
+- [Pro Git Book](https://git-scm.com/book/en/v2)
