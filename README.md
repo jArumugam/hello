@@ -17,6 +17,8 @@ You are welcome to join!
 - [MMDS](http://www.mmds.org/)
 
 ## Course Lists
+- [Ng Coursera](https://www.coursera.org/learn/machine-learning/)
+- [Ng Youtube](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
 - [GH Boston Univ Data Mining and Applications](https://github.com/dataminingapp/dataminingapp-lectures)
 - [GH Harvard Data Science](https://github.com/cs109/content) 
 - [Stanford Network Analysis](http://web.stanford.edu/class/cs224w/)
