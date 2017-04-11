@@ -24,6 +24,7 @@ You are welcome to join!
 - [Stanford Network Analysis](http://web.stanford.edu/class/cs224w/)
 - [Stanford Data Mining](http://web.stanford.edu/class/cs345a/handouts.html)
 - [Stanford MMDS](http://web.stanford.edu/class/cs246/)
+- [Summer Deep Feature Learning](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/?tab=schedule)
 
 ## Meta Lists 
 - [GH CS Developer-Y video courses](https://github.com/Developer-Y/cs-video-courses)
