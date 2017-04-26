@@ -33,4 +33,5 @@ You are welcome to join!
 - [GH awesome network analysis](https://github.com/briatte/awesome-network-analysis)
 - [GH awesome deep learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 - [GH awesome data science](https://github.com/bulutyazilim/awesome-datascience)
+- [GH awesoem reinforcement learning](https://github.com/aikorea/awesome-rl) 
 
