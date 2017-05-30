@@ -9,7 +9,7 @@ You are welcome to join!)
 
 ### Here are my [python notes](https://github.com/jArumugam/python-notes)
 
-### Here are some words from the books I have referred to 
+### Here are some words from the book titles I have referred to 
 <center>
 <img src="https://github.com/jArumugam/Dirichlet-Idiots/blob/master/results/jayDat_wordCloud.png" width="600" />
 </center>
