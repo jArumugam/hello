@@ -33,6 +33,7 @@ You are welcome to join!)
 - [Stanford MMDS](http://web.stanford.edu/class/cs246/)
 - [Summer Deep Feature Learning](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/?tab=schedule)
 - [Duke Everything Data](https://sites.duke.edu/compsci216_01_s2015/schedule/)
+- [Duke Computational Statistics in Python](https://people.duke.edu/~ccc14/sta-663/)
 
 ## Meta Lists 
 - [GH CS Developer-Y video courses](https://github.com/Developer-Y/cs-video-courses)
